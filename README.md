@@ -32,3 +32,6 @@
     </ol>
   </li>
 </ul>
+
+## Objetivo
+Aplicar meus estudos sobre CSS3 e Bootstarp num projeto prático.
